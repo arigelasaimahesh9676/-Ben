@@ -7,4 +7,4 @@ terraform {
   }
 }
 
-Provider = "Github"
+Provider = ""Github""

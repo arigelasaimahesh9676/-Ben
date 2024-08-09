@@ -8,8 +8,3 @@ terraform {
 }
 
 Provider = ""Github""
-
-{
-        }
-
-This line will delete
